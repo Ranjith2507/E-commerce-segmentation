@@ -8,6 +8,7 @@ Based on this analysis, we would like to develop models to group the 4000 custom
 Minimum Requirements:
 The end objective of the participant is to come up with customer segmentations that take into account all the information that is presented in the dataset. The participant is expected to use NLP techniques to find similarity between the products.
 
+
 Project Overview:
 From the E-Commerce transaction data, only unique values from the Product Description column were taken and Natural Language Processing techniques were applied to convert to numerical data
 I tried to group the customers into different clusters using similarity between products purchased between the users by the product categories
