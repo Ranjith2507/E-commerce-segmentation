@@ -13,6 +13,9 @@ The end objective of the participant is to come up with customer segmentations t
 
 Project Overview:
 From the E-Commerce transaction data, only unique values from the Product Description column were taken and Natural Language Processing techniques were applied to convert to numerical data
+
 I tried to group the customers into different clusters using similarity between products purchased between the users by the product categories
+
 K-Means clustering is applied to group a different clusters
+
 Data Visualization between the unitprice and quantity of product
